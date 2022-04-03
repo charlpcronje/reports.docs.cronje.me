@@ -1,6 +1,6 @@
 ---
-title: Reporting Docs - DEVserv.ME
-label: Reportign Docs
+title: Reporting and BI | DEVserv.ME
+label: Reporting and BI
 order: 100
 authors:
   - name: Charl Cronje
