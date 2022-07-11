@@ -1,20 +1,52 @@
 ---
-title: Reporting Docs - DEVserv.ME
-label: Reportign Docs
+title: Reporting and BI | CRONje.ME
+label: REPORTS
 order: 100
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
-tags: [dev,reports,bi,data,central,js,php,mysqll,oracle,log]
+    email: charl@cronje.me
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darker.jpg
+date: 2022-03-07T16:58
+description: Tools and Self Hosted for CRONje.ME
+edit:
+  repo: "https://github.com/charlpcronje/reports.docs.cronje.me/edit/"
+  base: /src
+  branch: main
+  label: Edit on GitHub
+editor:
+  enabled: false
+favicon: favicon.png
+links:
+- text: Dashboard
+  link: https://nav.cronje.me
+- text: Blog / Portfolio
+  link: https://blog.cronje.me
+- text: Wiki, Tips and Docs 
+  link: https://docs.cronje.me
+- text: My CV
+  link: https://cv.cronje.me
+- text: LinkedIn
+  link: https://www.linkedin.com/in/charlpcronje
+- text: GitHub
+  link: https://github.com/charlpcronje
+- text: Upwork Profile
+  link: https://www.upwork.com/freelancers/~01ccb1439024ec9c50
+footer:
+  copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
 ---
+<script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
+
 
 ```sh
-.__ .___.__ .__..__ .___. __.   .__ .__. __  __.   .  ..___
-[__)[__ [__)|  |[__)  |  (__    |  \|  |/  `(__    |\/|[__ 
-|  \[___|   |__||  \  |  .__) * |__/|__|\__..__) * |  |[___
-```
+  ____  _____ ____   ___  ____ _____ ____      _                  ____ ____   ___  _   _  _        __  __ _____ 
+ |  _ \| ____|  _ \ / _ \|  _ \_   _/ ___|  __| | ___   ___ ___  / ___|  _ \ / _ \| \ | |(_) ___  |  \/  | ____|
+ | |_) |  _| | |_) | | | | |_) || | \___ \ / _` |/ _ \ / __/ __|| |   | |_) | | | |  \| || |/ _ \ | |\/| |  _|  
+ |  _ <| |___|  __/| |_| |  _ < | |  ___) | (_| | (_) | (__\__ \| |___|  _ <| |_| | |\  || |  __/_| |  | | |___ 
+ |_| \_\_____|_|    \___/|_| \_\|_| |____(_)__,_|\___/ \___|___(_)____|_| \_\\___/|_| \_|/ |\___(_)_|  |_|_____|
+                                                                                       |__/                     
+ 01010010  01000100  01010000  01001110  01010010  01010100  01010010  00101110   01100100   01101110   01100010  
+ 01110010  00101110  01000010  01010010  01001110  01001110  01101010  01100100   00101110   01001100   01000101 
 
 # Table of contents
 
@@ -44,13 +76,13 @@ Please note, this is the technical documentation for the technicians, technical 
 
 ## Section 2: RStudio and RMarkdown
 
-- [2.1 R and R-Studio ](https://dev-docs.devserv.me/rlang/rstudio.md)
+- [2.1 R and R-Studio ](https://dev.docs.cronje.me/rlang/rstudio.md)
 - [2.2 R-Markdown](rstudio.md)
 
 ## Section 3: Jasper Reports & ReportServer
 
-- [3.1 Installation](https://tools-docs.devserv.me/jasper/)
-- [3.2 Installing PostgreSQL](https://setup-docs.devserv.me/postgresql/)
+- [3.1 Installation](https://tools.docs.cronje.me/jasper/)
+- [3.2 Installing PostgreSQL](https://setup.docs.cronje.me/postgresql/)
 - [3.3 Manual Tomcat Server](https://setup.docs.devserv.me/tomcat/)
 - [3.4 Installing WAR Distribution](https://www.youtube.com/watch?v=Pr89e_rKS2g)
 - [3.5 Jaspersoft Server for Containers](https://github.com/TIBCOSoftware/js-docker/tree/main/jaspersoft-containers)

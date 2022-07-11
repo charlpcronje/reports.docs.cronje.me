@@ -1,4 +1,7 @@
-# API - HTTP Response Codes
+---
+title: API - HTTP Response Codes
+---
+<script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
 
 JasperReports Server `REST` services return standard `HTTP` status codes. In case of an `error`, a detailed message may be present in the body as plain text. Client `error` codes are of type `4xx`, while server errors are of type `5xx`. The following table lists all the standard `HTTP` codes. Each service returns typical `success` and `error` messages that are given in the reference chapter for that service.
 	

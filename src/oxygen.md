@@ -9,6 +9,7 @@ authors:
     avatar: https://assets.devserv.me/avatars/darker.jpg
 tags: [dev,reports,bi,data,central,js,php,mysqll,oracle,log]
 ---
+<script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
 
 - Oxygen XML Developer is a cross-platform application designed to accommodate all of your `XML editing`, `authoring`, `developing`, and `publishing` needs. It is the best `XML editor` available for document development using structured mark-up languages such as `XML`, `XSD`, `Relax NG`, `XSL`, `DTD`.
 - It offers developers a powerful Integrated Development Environment and the intuitive Graphical User Interface of Oxygen XML Developer is easy to use and provides robust functionality for content editing, project management, and validation of structured mark-up sources. Coupled with `XSLT` and `FOP` transformation technologies, `Oxygen XML` Developer offers support for generating output to multiple target formats, including: `PDF`, `PS`, `TXT`, `HTML`, `DOC`, `JavaHelp`, `WebHelp`, and `XML`.

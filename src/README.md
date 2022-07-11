@@ -1,19 +1,52 @@
 ---
-title: Reporting and BI | DEVserv.ME
-label: Reporting and BI
+title: Reporting and BI | CRONje.ME
+label: REPORTS
 order: 100
 authors:
   - name: Charl Cronje
-    email: charl@devserv.me
-    link: https://charl-cv.devserv.me
-    avatar: https://assets.devserv.me/avatars/darker.jpg
-tags: [dev,reports,bi,data,central,js,php,mysqll,oracle,log]
+    email: charl@cronje.me
+    link: https://blog.cronje.me
+    avatar: https://assets.cronje.me/avatars/darker.jpg
+date: 2022-03-07T16:58
+description: Tools and Self Hosted for CRONje.ME
+edit:
+  repo: "https://github.com/charlpcronje/reports.docs.cronje.me/edit/"
+  base: /src
+  branch: main
+  label: Edit on GitHub
+editor:
+  enabled: false
+favicon: favicon.png
+links:
+- text: Dashboard
+  link: https://nav.cronje.me
+- text: Blog / Portfolio
+  link: https://blog.cronje.me
+- text: Wiki, Tips and Docs 
+  link: https://docs.cronje.me
+- text: My CV
+  link: https://cv.cronje.me
+- text: LinkedIn
+  link: https://www.linkedin.com/in/charlpcronje
+- text: GitHub
+  link: https://github.com/charlpcronje
+- text: Upwork Profile
+  link: https://www.upwork.com/freelancers/~01ccb1439024ec9c50
+footer:
+  copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
 ---
+<script type="text/javascript">(function(w,s){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://cdn.pagesense.io/js/webally/f2527eebee974243853bcd47b32631f4.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(e,x);})(window,"script");</script>
+
 
 ```sh
-.__ .___.__ .__..__ .___. __.   .__ .__. __  __.   .  ..___
-[__)[__ [__)|  |[__)  |  (__    |  \|  |/  `(__    |\/|[__ 
-|  \[___|   |__||  \  |  .__) * |__/|__|\__..__) * |  |[___
+  ____  _____ ____   ___  ____ _____ ____      _                  ____ ____   ___  _   _  _        __  __ _____ 
+ |  _ \| ____|  _ \ / _ \|  _ \_   _/ ___|  __| | ___   ___ ___  / ___|  _ \ / _ \| \ | |(_) ___  |  \/  | ____|
+ | |_) |  _| | |_) | | | | |_) || | \___ \ / _` |/ _ \ / __/ __|| |   | |_) | | | |  \| || |/ _ \ | |\/| |  _|  
+ |  _ <| |___|  __/| |_| |  _ < | |  ___) | (_| | (_) | (__\__ \| |___|  _ <| |_| | |\  || |  __/_| |  | | |___ 
+ |_| \_\_____|_|    \___/|_| \_\|_| |____(_)__,_|\___/ \___|___(_)____|_| \_\\___/|_| \_|/ |\___(_)_|  |_|_____|
+                                                                                       |__/                     
+ 01010010  01000100  01010000  01001110  01010010  01010100  01010010  00101110   01100100   01101110   01100010  
+ 01110010  00101110  01000010  01010010  01001110  01001110  01101010  01100100   00101110   01001100   01000101 
 ```
 
 1. Synopsis
@@ -116,17 +149,17 @@ With the tools mentioned above it is completely possible to gather and standardi
 - Scientific articles
 - Websites and more
 
-[Click here for some examples](https://dev-docs.devserv.me/rlang/rmd/#some-more-interesting-links)
+[Click here for some examples](https://dev.docs.cronje.me/rlang/rmd/#some-more-interesting-links)
 
-- [R Programming](https://dev-docs.devserv.me/rlang/)
-- [Install R Programming Langauge](https://dev-docs.devserv.me/rlang/installr/)
-- [R Markdown](https://dev-docs.devserv.me/rlang/rmd/)
+- [R Programming](https://dev.docs.cronje.me/rlang/)
+- [Install R Programming Langauge](https://dev.docs.cronje.me/rlang/installr/)
+- [R Markdown](https://dev.docs.cronje.me/rlang/rmd/)
 
 > Below are some examples what I said from the the beginning that I think Markdown is a good base to compose documents to, before transforming them and exporting them to the desired format
 
-- [R Markdown Templates](https://dev-docs.devserv.me/rlang/mdtemplates/)
-- [Guide to using Quarto](https://dev-docs.devserv.me/rlang/quartoguide/)
-- [R-Markdown & MS Word](https://dev-docs.devserv.me/rlang/wordrmd/)
+- [R Markdown Templates](https://dev.docs.cronje.me/rlang/mdtemplates/)
+- [Guide to using Quarto](https://dev.docs.cronje.me/rlang/quartoguide/)
+- [R-Markdown & MS Word](https://dev.docs.cronje.me/rlang/wordrmd/)
 
 ===
 
@@ -170,7 +203,7 @@ yum -y update
 1. [Install Java](https://setup.docs.devserv.me/java/)
 2. [Other Java Web / Application Servers](otherJavaServers.md)
 3. [Install Tomcat Server](https://setup.docs.devserv.me/tomcat/)
-4. [Install PostgreSQL](https://setup-docs.devserv.me/postgresql/)
+4. [Install PostgreSQL](https://setup.docs.cronje.me/postgresql/)
 5. [Install ReportServer](reportServer.md)
 6. [Create Docker Image](docker.md)
 7. [Other Install options](otherInstallOptions.md)
@@ -300,7 +333,7 @@ Also the JavaScript files are minified but the un-minified versions are there as
 - For a proof of concept I took the report I receieved from ISA and I recreated the report in JasperSoft Studio. 
 - I Added some more data to the Orion Project:
   - [Orion API](https://orion.devserv.me/api), 
-  - [Orion Docs](https://orion-docs.devserv.me/)
+  - [Orion Docs](https://orion.docs.cronje.me/)
   - [Orion SPA](https://orion-spa.devserv.me/)
 
 - I created the Orion API a while ago so that I can have a data source to connect to, to simulate JasperSoft collecting data and then creating the report as it should from the data collected
@@ -324,7 +357,7 @@ Also the JavaScript files are minified but the un-minified versions are there as
 
 
 - code.devserver.me
-- reports-docs.devserv.me
+- reports.docs.cronje.me
 - reports.devserv.me
 
 - https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp
