@@ -4,6 +4,7 @@ url: https://reports.docs.cronje.me
 branding:
   title: Reporting on CRONje.ME
   label: Docs
+favicon: ./favicon.png
 links:
 - text: Dashboard
   link: https://nav.cronje.me
