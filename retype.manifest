@@ -1,0 +1,282 @@
+{
+  "version": "3.0.3",
+  "created": "2023-06-23T06:17:08Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "altova/index.html"
+    },
+    {
+      "path": "api/aboutthisguide/index.html"
+    },
+    {
+      "path": "api/authentication/index.html"
+    },
+    {
+      "path": "api/fromthebrowser/index.html"
+    },
+    {
+      "path": "api/httpresponsecodes/index.html"
+    },
+    {
+      "path": "api/index.html"
+    },
+    {
+      "path": "api/listofservices/index.html"
+    },
+    {
+      "path": "api/resourcedescriptors/index.html"
+    },
+    {
+      "path": "api/serverinfoservice/index.html"
+    },
+    {
+      "path": "api/theattributesservice/index.html"
+    },
+    {
+      "path": "api/thecalendarsservice/index.html"
+    },
+    {
+      "path": "api/theexportservice/index.html"
+    },
+    {
+      "path": "api/theimportservice/index.html"
+    },
+    {
+      "path": "api/theinputcontrolsservice/index.html"
+    },
+    {
+      "path": "api/thejobsservice/index.html"
+    },
+    {
+      "path": "api/theoptionsservice/index.html"
+    },
+    {
+      "path": "api/thepermissionsservice/index.html"
+    },
+    {
+      "path": "api/thequeryexecutorservice/index.html"
+    },
+    {
+      "path": "api/thereportexecutionsservice/index.html"
+    },
+    {
+      "path": "api/thereportsservice/index.html"
+    },
+    {
+      "path": "api/theresourcesservice/index.html"
+    },
+    {
+      "path": "api/therolesservice/index.html"
+    },
+    {
+      "path": "api/theusersservice/index.html"
+    },
+    {
+      "path": "api/workingwithdomains/index.html"
+    },
+    {
+      "path": "api/workingwithfileresources/index.html"
+    },
+    {
+      "path": "api/workingwithresources/index.html"
+    },
+    {
+      "path": "assets/jasperreports-io-ebook-final.pdf"
+    },
+    {
+      "path": "assets/jaspersoftreportserver.mp4"
+    },
+    {
+      "path": "assets/makedark.js"
+    },
+    {
+      "path": "assets/poster.png"
+    },
+    {
+      "path": "assets/sampleservicereport.docx"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-1.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-10.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-11.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-12.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-13.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-14.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-15.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-16.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-17.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-2.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-3.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-4.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-5.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-6.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-7.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-8.png"
+    },
+    {
+      "path": "assets/slides/proofofconceptslide-9.png"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "old/customizingjavascript/index.html"
+    },
+    {
+      "path": "old/docker/index.html"
+    },
+    {
+      "path": "old/editconfigfiles/index.html"
+    },
+    {
+      "path": "old/exampleinstallstructure/index.html"
+    },
+    {
+      "path": "old/help/index.html"
+    },
+    {
+      "path": "old/index.html"
+    },
+    {
+      "path": "old/otherinstalloptions/index.html"
+    },
+    {
+      "path": "old/otherjavaservers/index.html"
+    },
+    {
+      "path": "old/restartwithdependencies/index.html"
+    },
+    {
+      "path": "old/signinreportserver/index.html"
+    },
+    {
+      "path": "old/supportedtech/index.html"
+    },
+    {
+      "path": "oxygen/index.html"
+    },
+    {
+      "path": "reportserver/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/prism.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "rstudio/index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "tags/bi/index.html"
+    },
+    {
+      "path": "tags/central/index.html"
+    },
+    {
+      "path": "tags/data/index.html"
+    },
+    {
+      "path": "tags/dev/index.html"
+    },
+    {
+      "path": "tags/index.html"
+    },
+    {
+      "path": "tags/js/index.html"
+    },
+    {
+      "path": "tags/log/index.html"
+    },
+    {
+      "path": "tags/mysqll/index.html"
+    },
+    {
+      "path": "tags/oracle/index.html"
+    },
+    {
+      "path": "tags/php/index.html"
+    },
+    {
+      "path": "tags/reports/index.html"
+    }
+  ]
+}
